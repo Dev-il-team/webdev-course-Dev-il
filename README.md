@@ -161,16 +161,6 @@ https://codepen.io/SebastianGutarra/pen/VYPpKZo?editors=1100
 
 ---
 
-## Lección 6: Consejos y Próximos Pasos (5-10 minutos)
-
-**Responsable:** Pendiente
-
-### Temas
-
-* Errores comunes para principiantes
-* Buenas prácticas
-* Recursos gratuitos para seguir aprendiendo
-* Introducción a MDN Web Docs
 
 ### Video
 
