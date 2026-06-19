@@ -68,7 +68,7 @@ Pendiente
 
 ## Lección 3: Elementos HTML Comunes (10-12 minutos)
 
-**Responsable:** Pendiente
+**Responsable:** Emilia Durán
 
 ### Temas
 
@@ -80,11 +80,9 @@ Pendiente
 
 ### Video
 
-Pendiente
+1. [Elementos HTML de texto](https://youtu.be/KzF-h_imcA0)
+2. [Elementos HTML de multimedia](https://youtu.be/nt_FmfzF63g)
 
-### Práctica
-
-Pendiente
 
 ---
 
