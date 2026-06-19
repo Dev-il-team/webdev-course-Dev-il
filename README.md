@@ -22,7 +22,15 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria al 
 
 ## Lección 1: Introducción al Desarrollo Web (10 minutos)
 
-**Responsable:** Piero Molina
+**Responsable:** Leo Molinna
+
+### Descripción
+
+Aprende qué es una página web, cómo funciona Internet y por qué HTML y CSS son las tecnologías fundamentales utilizadas para construir sitios web modernos.
+
+### Enlace
+
+https://www.youtube.com/watch?v=i6aYipJPqiU&list=PLjT7WXd7OwqkoQw-7RJ1ofTNWcsByq_LF
 
 ### Temas
 
@@ -31,15 +39,34 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria al 
 * ¿Qué es HTML?
 * ¿Qué es CSS?
 
-### Video
+### Consejos Clave
 
-Pendiente
+* Los sitios web están formados por contenido y diseño.
+* HTML proporciona la estructura de una página web.
+* CSS permite mejorar la apariencia visual.
+* Internet conecta usuarios y servidores alrededor del mundo.
 
-### Práctica
+### Actividad Interactiva
 
-Pendiente
+Pausa el video y responde las siguientes preguntas:
 
----
+1. ¿Qué sitios web utilizas todos los días?
+2. ¿Para qué los utilizas?
+3. ¿Qué elementos observas en ellos? (texto, imágenes, videos, botones, formularios, etc.)
+
+### Resultado de Aprendizaje
+
+Al finalizar esta lección serás capaz de:
+
+* Comprender qué es una página web.
+* Explicar de forma básica cómo funciona Internet.
+* Diferenciar HTML y CSS.
+* Entender cómo trabajan juntos para crear sitios web.
+
+### Empieza a Aprender
+
+No necesitas instalar ningún programa. Todo el curso se realizará utilizando herramientas gratuitas y accesibles desde el navegador web.
+
 
 ## Lección 2: Estructura HTML Básica (10-12 minutos)
 
