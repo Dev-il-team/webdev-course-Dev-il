@@ -22,7 +22,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria al 
 
 ## Lección 1: Introducción al Desarrollo Web (10 minutos)
 
-**Responsable:** Leo Molinna
+**Responsable:** Piero Molinna
 
 ### Descripción
 
