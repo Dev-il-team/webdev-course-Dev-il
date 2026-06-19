@@ -103,11 +103,11 @@ Pendiente
 
 ### Video
 
-Pendiente
+[ https://www.youtube.com/watch?v=el_wNQZejCE ]
 
 ### Práctica
 
-Pendiente
+https://codepen.io/SebastianGutarra/pen/VYPpKZo?editors=1100
 
 ---
 
@@ -170,7 +170,7 @@ https://github.com/Dev-il-team/webdev-course-Dev-il
 | 1       | Introducción al Desarrollo Web | Pendiente |
 | 2       | HTML Básico                    | [https://www.jdoodle.com/ga/jXO7irabHdOgwIMcWxdBCA%3D%3D] |
 | 3       | Elementos HTML                 | Pendiente |
-| 4       | CSS Básico                     | Pendiente |
+| 4       | CSS Básico                     | https://codepen.io/SebastianGutarra/pen/VYPpKZo?editors=1100 |
 | 5       | Proyecto Final                 | Pendiente |
 
 ## Cuestionario Final
