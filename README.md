@@ -58,11 +58,11 @@ Pendiente
 
 ### Video
 
-Pendiente
+[https://youtu.be/wUfo5z5J4nQ]
 
 ### Práctica
 
-Pendiente
+[https://www.jdoodle.com/ga/jXO7irabHdOgwIMcWxdBCA%3D%3D]
 
 ---
 
@@ -168,7 +168,7 @@ https://github.com/Dev-il-team/webdev-course-Dev-il
 | Lección | Actividad                      | Enlace    |
 | ------- | ------------------------------ | --------- |
 | 1       | Introducción al Desarrollo Web | Pendiente |
-| 2       | HTML Básico                    | Pendiente |
+| 2       | HTML Básico                    | [https://www.jdoodle.com/ga/jXO7irabHdOgwIMcWxdBCA%3D%3D] |
 | 3       | Elementos HTML                 | Pendiente |
 | 4       | CSS Básico                     | Pendiente |
 | 5       | Proyecto Final                 | Pendiente |
