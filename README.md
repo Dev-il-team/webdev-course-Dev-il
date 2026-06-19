@@ -103,7 +103,7 @@ Pendiente
 
 ### Video
 
-[CSS](https://www.youtube.com/watch?v=el_wNQZejCE)
+[ https://www.youtube.com/watch?v=el_wNQZejCE ]
 
 ### Práctica
 
