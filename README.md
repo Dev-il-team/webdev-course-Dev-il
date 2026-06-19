@@ -224,10 +224,10 @@ Pendiente
 
 **Integrantes:**
 
-* Integrante 1
-* Integrante 2
-* Integrante 3
-* Integrante 4
-* Integrante 5
+* Molina Falcón Piero
+* Tello Quispe, Luis
+* Louis Piero Alfaro Coveñas
+* Gutarra Sebastian
+  
 
 **Fecha de entrega:** Pendiente
