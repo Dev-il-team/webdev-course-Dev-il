@@ -126,11 +126,11 @@ Pendiente
 
 ### Video
 
-Pendiente
+[https://youtu.be/i-0OmQuGbus]
 
 ### Proyecto Final
 
-Pendiente
+[https://www.jdoodle.com/ih/1UeS]
 
 ---
 
