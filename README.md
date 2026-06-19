@@ -171,7 +171,7 @@ https://github.com/Dev-il-team/webdev-course-Dev-il
 | 2       | HTML Básico                    | Pendiente |
 | 3       | Elementos HTML                 | Pendiente |
 | 4       | CSS Básico                     | Pendiente |
-| 5       | Proyecto Final                 | Pendiente |
+| 5       | Proyecto Final                 | [https://youtu.be/i-0OmQuGbus] |
 
 ## Cuestionario Final
 
